@@ -69,6 +69,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Physics MSci, 1st Class Honours
 - Optional modules included Methods of Theoretical Physics, Computational Physics
 
+#### South Hampstead High School (2001 - 2009)
+
+- A Levels: Math, Physics, Chemistry, Latin
+
 #### Other qualifications
 
 French speaking level B1 - Intermediate
