@@ -1,6 +1,14 @@
-## Your Name
+## Flora Davies
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a curious **full stack Junior Developer** learning to code at Makers Academy (an intensive 16-week full stack software development bootcamp). 
+I have so far started in HTML, CSS, Javascript and Ruby. 
+
+Enjoying the TDD side of coding.
+ 
+A strong technical academic background and work experience that has taught me the skills to work well in a team.
+
+
+
 
 ## Projects
 
@@ -11,19 +19,26 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Koya London** (September '17 - Present)
+_Restaurant Manager_
 
-- Any experience relevent to software development
+- Any experience relevent to software development: team player? 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Teaching Assistant at a primary school in King's Cross** (October '19 - July '20)  
+_Year 4 teaching assistant_
 
-- Any experience relevent to software development
+- Any experience relevent to software development:
+
+**Personal Tutor** 
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- Problem solver
+- Team player
+- Teaching? Explaining stuff?
+- Creative Inquisitive
+- Enthusiastic
 
 #### This Skill
 
@@ -42,23 +57,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February '21 - May '21)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (2010 - 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Physics MSci, 1st Class Honours
+- Optional modules included Methods of Theoretical Physics, Computational Physics
 
-#### Any other qualifications
+#### Other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+French speaking level B1 - Intermediate
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+#### **Craft/Making things**
+- Pottery: I've been part of a pottery studio for the last 3 years where I espeically enjoy throwing on the wheel
+- Sewing: Making clothes/textiles
+- Crosswords: both making and doing cryptic crosswords
+
+#### **Sports**
+- Football - casual mixed 5-a-side player and weekly training with a friend. Hoping to move into a women's 11-a-side team.
+- Swimming - especially in cold water!
+
+
+
