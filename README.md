@@ -1,92 +1,103 @@
-## Flora Davies
-
-I am a curious **full stack Junior Developer** learning to code at Makers Academy (an intensive 16-week full stack software development bootcamp). 
-I have so far started in HTML, CSS, Javascript and Ruby. 
-
-Enjoying the TDD side of coding.
+<h1 align="center">Flora Davies - Software Developer</h1>
+<div align="center">
  
-A strong technical academic background and work experience that has taught me the skills to work well in a team.
+[Profile](#profile) |
+[Projects](#projects) |
+[Skills](#skills) |
+[Experience](#experience) |
+[Education](#education) |
+[Interests](#interests)
+ 
+</div>
+
+# Profile
+
+A career changer and recent graduate from the Makers Academy 16-week bootcamp. An academic background in Physics, I love solving problems and figuring out how to make something work! Whether that be solving kata or a cryptic crossword, creating an app to help manual processs or building something ou. 
+I have spent time exploring what sort of environment I like to work in and growing my skillset.
+I knew I always wanted to do something that used my brain in the way
+
+# Projects
+
+| Name                         |  Description       |Development Time | Tech/tools        |
+| ---------------------------- | ----------------- | ----------|------- |
+| [Parrot Party]()             | Makers final group project: an ioS mobile app to automate the process of rehoming tropicals birds across the country | 2 weeks | MERN with React Native, AWS Buckets, MapQuest API, Jest |
+| [IkeBook]() | Part of an 8 person team to build a social media app with a Rails API and React Native front end | 2 weeks | Ruby on Rails, RSpec, React Native, Jest|
+| [ApeBnb](https://github.com/fg24davies/Makersbnb/blob/master/README.md) | A group project to build an airbnb clone, learning MVC and end-to-end testing | 1 week | Ruby, RSpec, CSS, HTML, Capybara, Sinatra |
+| [Rio's Pieces of Eight](https://github.com/fg24davies/Makersbnb/blob/master/README.md) | A single page web app for notetaking, written in pure JavaScript and a custom testing framework | 1 week  | Javascript, custom testing framework, HTML, CSS |
+
+# Skills
+
+### Problem-Solver 
+Busy restaurants have a number of unforeseen problems that arise. As manager, I felt confident in finding logical solutions calmly. In programming, I found problem-solving to be a key skill for debugging and being able to think rationally when something is not working. - Asking questions is a very important skill in development for ensuring the solution solves the problem presented. I have learnt this skill from my teaching experience; liaising with the parent and the child to really understand what the student needs so I could plan my lessons accordingly. This led to successful results, students getting into top UK schools and achieving high exam results.
+ - I have always been an analytical thinker; in my degree I would analyse data and provide formal reports of the results.  for my dissertation created a model and spent time analysing the results in order to discern patterns between two sets of data. At Makers, I continued to use this skill 
+
+### Team Player 
+I value open and friendly communication within the team; ensuring all team members are aware of each other's emotions and challenges is important for mitigating conflicts and  creating a productive environment. Makers team experience --- final project ? Working in a team f.
+
+### Communicator
+As a restaurant manager I communicated with my staff, suppliers, customers on a daily basis. I feel confident in being able to communicate with a wide range of people At Makers I used these communication skills to lead team stand ups and retros. I presented the technical demo of two team projects to my cohort and wider audience, answering questions confidently. 
+
+### Empathizer
+I create a personalized approach to everyone and am able to see their differences and specialties.  As a teaching assistant, it was my job to understand student’s particular struggles, responding with a kind and patient manner meant I could design a program of work for them to help them reach their full potential. 
+
+# Experience
 
 
+**Teaching Assistant - Argyle Primary School ( 2019 - 2020)**
+TA in a diverse, inner city state primary school
 
+**Restaurant Manager - Koya  (2017 - 2019)**
+Managed a team of 15 staff at a busy restaurant 
 
-## Projects
+**Policy and Innovation Intern - The Carbon Trust (2016 - 2017)**
+Research and business development for the P&I team at a sustainability consultancy
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+**Tutor - Hampstead & Frognal Tutors (2015 - 2016) and Private (2017 - 2021)**
+Tutored primary and secondary Mathematics, Chemistry and Physics.
 
-## Experience
+# Education
 
-**Koya London** (September '17 - Present)
-_Restaurant Manager_
+#### Makers Academy (February 2021 - May 2021)
 
-- Any experience relevent to software development: team player? 
-
-**Teaching Assistant at a primary school in King's Cross** (October '19 - July '20)  
-_Year 4 teaching assistant_
-
-- Any experience relevent to software development:
-
-**Personal Tutor** 
-
-
-## Skills
-
-- Problem solver
-- Team player
-- Teaching? Explaining stuff?
-- Creative Inquisitive
-- Enthusiastic
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (February '21 - May '21)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+A selective 16 week intensive bootcamp where I practised the following principles: 
+- Agile processes, XP values, team sprints and standups.
+- Pair programming; give and receive feedback using code reviews and process workshops.
+- During team projects we created user stories, defined an MVP and timeline, broke the features down into tickets and managed the workflow using a Trello board.
+- Used GitHub for version control and collaboration on code.
+- TDD, BDD, object oriented programming to write clean, easily maintained and well tested code.
+- Self-directed learning, responsible for my learning journey through reflection.
+- Emotional Intelligence curriculum to strengthen soft skills in teamwork, communication and empathy
 
 #### University of Bristol (2010 - 2014)
 
-- Physics MSci, 1st Class Honours
-- Optional modules included Methods of Theoretical Physics, Computational Physics
+- Integrated Physics MSci
+- 1st Class Honours
+- Selected lecture courses: Methods of Theoretical Physics, Computational Physics (Programming in Language C), Environmental Physics, Quantum Physics, General Relativity, Physics with Philosophy
+- Final year project: Theoretical project, modelling 2d plane light waves using Mathematica. 
 
 #### South Hampstead High School (2001 - 2009)
 
-- A Levels: Math, Physics, Chemistry, Latin
+- Maths A-Level: A 
+- Physics A-Level: A
+- Chemistry A-Level: A
+- Latin AS-Level: A
 
-#### Other qualifications
+## Interests
 
-French speaking level B1 - Intermediate
+### Playing ⚽ 
+I love being active and playing sports - football, tennis, skiing, cycling, swimming (cold water!), walking you name it! I played county level Netball at school and now I play football: for a mixed casual 5-a-side and women's 11-a-side. I am an Arsenal fan.
+ 
+### Making ✂️
+Pottery: I've been part of a pottery studio for the last 3 years where I make and sell functional pottery. I espeically enjoy throwing on the wheel 
+Sewing/Knitting: Making clothes and textiles.
+Woodwork: I recently made my first piece of furniture.
 
-## Hobbies
+### Puzzling 🔍
+Solving and writing cryptic crosswords, playing cards and games.
 
-#### **Craft/Making things**
-- Pottery: I've been part of a pottery studio for the last 3 years where I espeically enjoy throwing on the wheel
-- Sewing: Making clothes/textiles
-- Crosswords: both making and doing cryptic crosswords
+### Travelling 🚞
+When possible, I enjoy visiting new places. Highlights include travelling to Georgia by train to hike in the Caucasus Mountains in 2018 and a 10-day cycle trip down the west coast of Ireland in 2019. 
 
-#### **Sports**
-- Football - casual mixed 5-a-side player and weekly training with a friend. Hoping to move into a women's 11-a-side team.
-- Swimming - especially in cold water!
 
 
 
