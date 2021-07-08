@@ -1,4 +1,4 @@
-<h1 align="center">Flora Davies - Software Developer</h1>
+<h1 align="center">Flora Davies</h1>
 <div align="center">
  
 [Profile](#profile) |
@@ -20,10 +20,10 @@ I knew I always wanted to do something that used my brain in the way
 
 | Name                         |  Description       |Development Time | Tech/tools        |
 | ---------------------------- | ----------------- | ----------|------- |
-| [Parrot Party]()             | Makers final group project: an ioS mobile app to automate the process of rehoming tropicals birds across the country | 2 weeks | MERN with React Native, AWS Buckets, MapQuest API, Jest |
-| [IkeBook]() | Part of an 8 person team to build a social media app with a Rails API and React Native front end | 2 weeks | Ruby on Rails, RSpec, React Native, Jest|
+| [Parrot Party](https://github.com/fg24davies/party-parrots-client)             | Makers final group project: an ioS mobile app to automate the process of rehoming tropicals birds across the country | 2 weeks | MERN with React Native, AWS Buckets, MapQuest API, Jest |
+| [IkeBook](https://github.com/fg24davies/Insert-Team-Name-react-native) | Part of an 8 person team to build a social media app with a Rails API and React Native front end | 2 weeks | Ruby on Rails, RSpec, React Native, Jest|
 | [ApeBnb](https://github.com/fg24davies/Makersbnb/blob/master/README.md) | A group project to build an airbnb clone, learning MVC and end-to-end testing | 1 week | Ruby, RSpec, CSS, HTML, Capybara, Sinatra |
-| [Rio's Pieces of Eight](https://github.com/fg24davies/Makersbnb/blob/master/README.md) | A single page web app for notetaking, written in pure JavaScript and a custom testing framework | 1 week  | Javascript, custom testing framework, HTML, CSS |
+| [Rio's Pieces of Eight](https://github.com/fg24davies/notes-app/blob/main/README.md) | A single page web app for notetaking, written in pure JavaScript and a custom testing framework | 3 days  | Javascript, custom testing framework, HTML, CSS |
 
 # Skills
 
@@ -36,6 +36,7 @@ I value open and friendly communication within the team; ensuring all team membe
 
 ### Communicator
 As a restaurant manager I communicated with my staff, suppliers, customers on a daily basis. I feel confident in being able to communicate with a wide range of people At Makers I used these communication skills to lead team stand ups and retros. I presented the technical demo of two team projects to my cohort and wider audience, answering questions confidently. 
+Enjoyed teaching, communicate with someone how to do something
 
 ### Empathizer
 I create a personalized approach to everyone and am able to see their differences and specialties.  As a teaching assistant, it was my job to understand student’s particular struggles, responding with a kind and patient manner meant I could design a program of work for them to help them reach their full potential. 
@@ -43,16 +44,23 @@ I create a personalized approach to everyone and am able to see their difference
 # Experience
 
 
-**Teaching Assistant - Argyle Primary School ( 2019 - 2020)**
-TA in a diverse, inner city state primary school
+## Teaching Assistant - Argyle Primary School ( 2019 - 2020)
 
-**Restaurant Manager - Koya  (2017 - 2019)**
-Managed a team of 15 staff at a busy restaurant 
 
-**Policy and Innovation Intern - The Carbon Trust (2016 - 2017)**
-Research and business development for the P&I team at a sustainability consultancy
 
-**Tutor - Hampstead & Frognal Tutors (2015 - 2016) and Private (2017 - 2021)**
+## Restaurant Manager - Koya  (2017 - 2019)
+
+After 6 months at the original branch, first as waitress and then assistant manager, I moved to the new branch two months after it opened to be restaurant manager.
+- 
+
+- Responsible for the introduction and training in OpenTable and WalkIn to increase 
+
+- Responsible for hiring of staff and subsequent training
+
+- Organised the rota of a staff of 15
+
+## Tutor - Hampstead & Frognal Tutors (2015 - 2016) and Private (2017 - 2021)**
+
 Tutored primary and secondary Mathematics, Chemistry and Physics.
 
 # Education
