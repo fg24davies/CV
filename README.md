@@ -27,7 +27,23 @@ I knew I always wanted to do something that used my brain in the way
 
 # Skills
 
+4 STAR Paragraphs Tied to Criteria
+
+SKILL
+
+Work
+-Describe the situation and task/challenge.
+-Describe what you did/ how used this skill.
+-Describe the result/what happened.
+
+Makers - this skill was key in my experience at Makers
+-Describe the TECH situation and task/challenge.
+-Describe what you did/ how used this skill.
+-Describe the result/ what happened.
+
+
 ### Problem-Solver 
+I am an analytical thinker
 Busy restaurants have a number of unforeseen problems that arise. As manager, I felt confident in finding logical solutions calmly. In programming, I found problem-solving to be a key skill for debugging and being able to think rationally when something is not working. - Asking questions is a very important skill in development for ensuring the solution solves the problem presented. I have learnt this skill from my teaching experience; liaising with the parent and the child to really understand what the student needs so I could plan my lessons accordingly. This led to successful results, students getting into top UK schools and achieving high exam results.
  - I have always been an analytical thinker; in my degree I would analyse data and provide formal reports of the results.  for my dissertation created a model and spent time analysing the results in order to discern patterns between two sets of data. At Makers, I continued to use this skill 
 
@@ -40,6 +56,9 @@ Enjoyed teaching, communicate with someone how to do something
 
 ### Empathizer
 I create a personalized approach to everyone and am able to see their differences and specialties.  As a teaching assistant, it was my job to understand student’s particular struggles, responding with a kind and patient manner meant I could design a program of work for them to help them reach their full potential. 
+
+- working in a team with people from different backgrounds and people's various motivations and levels of
+
 
 # Experience
 
